@@ -6,4 +6,4 @@ The list of competitions are :
 2. Perceptron - Like Unlike Classification
    This competition is about whether we can predict if a mobile phone will be LIKED by people or NOT using Perceptron model?
 # Analytics Project
-This repository has one analytics project which I had undertaken recently . In this project I have built a Logistic Regression model in R, predicted Customer Attrition in a Telecom sector Company and identified Target Segment for Proactive Customer Retention Campaigns and Revenue Maximisation. The project is stored in the file name 
+This repository has one analytics project which I had undertaken recently . In this project I have built a Logistic Regression model in R, predicted Customer Attrition in a Telecom sector Company and identified Target Segment for Proactive Customer Retention Campaigns and Revenue Maximisation. The project is stored in the file name- "Telecom Data Project on R.R"
